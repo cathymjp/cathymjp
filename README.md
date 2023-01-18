@@ -10,3 +10,5 @@ I'm a junior developer interested in Python, computer vision, object recognition
 
 ## Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cathymjp&layout=compact)](https://github.com/cathymjp/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cathymjp)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cathymjp&layout=compact&theme=tokyonight)
