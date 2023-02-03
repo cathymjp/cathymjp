@@ -1,14 +1,5 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-## :smiley: Hi there! 
-Welcome to my profile!
-I'm a junior developer interested in Python, computer vision, object recognition, object detection through images and cameras.
+# :smiley: Hi there! 
 
-### Languages and Tools
-<img height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> <img height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/> <img height="32" width="42" src="https://cdn.cdnlogo.com/logos/c/76/c.svg"/> <img height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> <img height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> <img height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"/> <img height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"/> <img height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/> <img height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/> <img height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/> <img height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> <img height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"/> <img height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg"/> <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/> <img height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/> <img height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> <img height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> <img height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
-
-
-## Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cathymjp&layout=compact)](https://github.com/cathymjp/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cathymjp&layout=compact&theme=tokyonight)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cathymjp&layout=compact)](https://github.com/cathymjp/github-readme-stats) -->
